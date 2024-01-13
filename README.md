@@ -63,8 +63,8 @@ $
 
 1. **Clone the Repository**
    ```bash
-   git clone [repository-link]
-   cd conteneur-gestion
+   git clone https://github.com/ChrisChrisW/itic-2023.git
+   cd itic-2023
    ```
 
 2. **Compile the Project with Maven**
